@@ -1,4 +1,4 @@
-.text-blue {
+.text-primary {
 
     color: #00173A !important;
 
@@ -8,5 +8,18 @@
 h1 > img {
 
     width: 110px;
+
+}
+
+a.navbar-brand img  {
+
+    width: 90px;
+
+}
+
+.bg-primary {
+
+background-color: #00173A !important;
+
 
 }
