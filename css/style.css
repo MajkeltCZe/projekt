@@ -1,15 +1,12 @@
-.bg-info {
-    background-color:  rgb(34, 98, 194) !important;
+.text-blue {
+
+    color: #00173A !important;
+
+
 }
 
-.text-info {
-    color: rgb(34, 98, 194) !important;
-}
+h1 > img {
 
-.bg-danger {
-    background-color:  rgb(219, 84, 43) !important;
-}
+    width: 110px;
 
-.text-danger {
-    color: rgb(219, 84, 43) !important;
 }
