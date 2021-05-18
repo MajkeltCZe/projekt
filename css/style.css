@@ -44,3 +44,37 @@ color: rgb(250, 242, 242);
     color: #6BDBCF !important;
 
 }
+
+.text-white {
+
+    color: rgb(226, 226, 226) !important;
+
+}
+
+    
+
+  .seznam >  li a {
+
+color: rgb(226, 226, 226) !important;
+text-decoration: none !important;
+}
+  
+li {
+
+    list-style: none !important;
+
+
+}
+
+li a:hover {
+
+    color: #6BDBCF !important;
+    
+    }
+
+ i:hover {
+
+    color: #6BDBCF !important;
+
+}
+
