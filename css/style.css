@@ -23,3 +23,23 @@ background-color: #00173A !important;
 
 
 }
+
+
+.carousel-item > img {
+
+width: 1500px ;
+height: 620px;
+
+}
+
+.dropdown-item:hover {
+
+background-color: #00173A ;
+color: rgb(250, 242, 242);
+
+} 
+
+
+ .navbar-nav .nav-link {
+    color: rgb(224, 221, 221) !important;
+}
