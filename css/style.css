@@ -59,7 +59,7 @@ color: rgb(226, 226, 226) !important;
 text-decoration: none !important;
 }
   
-li {
+footer li {
 
     list-style: none !important;
 
@@ -121,5 +121,12 @@ height: 100%;
 
 
 
+
+  }
+
+
+  .seznam2 li {
+
+    padding-top: 10px;
 
   }
