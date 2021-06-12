@@ -100,3 +100,26 @@ height: 100%;
   }
 
   
+  
+  .modal-body > p a:hover {
+
+    color: #6BDBCF !important;
+
+
+  }
+  
+  .modal-body > p a {
+
+    color: black; 
+    text-underline-offset: 1;
+  }
+
+  .btn-primary {
+
+
+    background-color: #00173A !important;
+
+
+
+
+  }
