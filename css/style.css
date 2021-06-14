@@ -143,8 +143,8 @@ margin-top: 142px !important;
   }
   
   .thead-gray {
-background-color:rgb(128, 126, 126) !important;
-
+background-color:#00173A !important;
+color: white;
   }
 
   .btn:hover {
@@ -160,9 +160,7 @@ margin-left: 350px;
   }
 
 
-  
 
-  
 
   #minus {
     list-style: none;
@@ -195,3 +193,26 @@ margin-left: 350px;
     width: 1.3em; 
   color: green;
   }
+
+  .mt-7 {
+
+margin-top: 180px;
+
+  }
+
+
+ h4 a {
+
+  color: black !important;
+
+
+ }
+ 
+ h4 a:hover {
+
+  color: #6BDBCF !important;
+text-decoration: none;
+
+
+
+ }
