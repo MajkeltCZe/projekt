@@ -1,3 +1,7 @@
+
+
+
+
 .text-primary {
 
     color: #00173A !important;
@@ -99,7 +103,11 @@ height: 100%;
 
   }
 
-  
+  footer {
+    height: 100px !important;
+    position: fixed;
+    bottom: 0;
+  }
 
 
   
@@ -216,3 +224,12 @@ text-decoration: none;
 
 
  }
+
+ .dropdown-toggle::after {
+  content: none;
+}
+
+.navbar {
+width: 80px !important;
+border-radius: 25px !important;
+}
