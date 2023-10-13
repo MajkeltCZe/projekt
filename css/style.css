@@ -76,11 +76,7 @@ li a:hover {
     
     }
 
- i:hover {
-
-    color: #6BDBCF !important;
-
-}
+ 
 
 /* pro responsivní videa */
 
@@ -231,6 +227,10 @@ text-decoration: none;
 .img:hover {
   height: 105% !important;
   width: 105% !important;
+  border: 3px solid #00173A !important;
+  border-radius: 20px !important;
+
+  
 
 }
 
@@ -238,3 +238,4 @@ text-decoration: none;
   margin-top: 160px !important;
   
 }
+
