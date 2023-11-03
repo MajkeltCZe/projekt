@@ -129,6 +129,14 @@ height: 100%;
 
   }
 
+body {
+  background-image: url("../img/bg.png") !important;
+  background-repeat: repeat !important;
+  background-color: rgb(217, 217, 220) !important;
+  background-size: 550px;
+}
+
+
 
   main li {
 
@@ -239,3 +247,13 @@ text-decoration: none;
   
 }
 
+header {
+  height: 200px !important;
+}
+
+.border {
+  border-style:double solid !important;
+  border-width: 5px !important;
+  border-color: #6BDBCF white  !important;
+
+}
